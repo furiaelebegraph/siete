@@ -678,8 +678,30 @@ body {
 
 }
 
+.bloque_tres{
+    margin-top: -40%;
+    width: 100%;
+}
+
+.bloque_cuatro{
+    margin-top: 30%;
+}
+
+.texto_bloque_tres{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.wrap_bloque1{
+    margin-top: 70px;
+}
+
 /* TEMPLATE 4 */
 @media (min-width: 688px){
+    .wrap_bloque1{
+        margin-top: 0%;
+    }
     .logo_empresa{
         margin-top: 50px;
     }
@@ -701,6 +723,13 @@ body {
     }
     .navegador_escritorio{
         display: flex;
+    }
+    .texto_bloque_tres{
+        font-size: 50px;
+
+    }
+    .bloque_cuatro{
+        margin-top: 40%;
     }
 }
 

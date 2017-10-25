@@ -151,15 +151,15 @@
     </div>
 
     <div class="container-fluid">
-        <div>
+        <div class=''>
             <img class='al_100' src="http://elebeweb.com/2016/emprendedor/layout-siete/images/old_road_2560x1600.jpg" alt="">
         </div>
-        <div>
-            <p>Lorem ipsum dolot sit amet</p>
+        <div class='bloque_tres'>
+            <p class='texto_bloque_tres'>Lorem ipsum dolot sit amet</p>
         </div>
     </div>
 
-    <div class="container">
+    <div class="container bloque_cuatro">
         <div class="row justify-content-center">
             <div class="col-11 col-md-6 margen_20">
                 <div class="row">
